@@ -1,2 +1,3 @@
-# julia-pkgsrc-downloader
-Downloader of Julia-packages sources
+# Julia Packages Downloader
+
+Downloader of sources of Julia packages
